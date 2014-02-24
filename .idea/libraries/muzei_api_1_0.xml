@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="muzei-api-1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.apps.muzei/muzei-api/1.0/462586fbdc48d42b73a3db3e81ed7944313820cc/muzei-api-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.apps.muzei/muzei-api/1.0/6c6b6cfed47102d954b84ac86e22f6e858cfd3a5/muzei-api-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
